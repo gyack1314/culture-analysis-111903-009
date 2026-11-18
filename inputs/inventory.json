@@ -8,7 +8,7 @@
     {
       "path": "choice_sets.parquet",
       "bytes": 84894,
-      "sha256": "47a0578e8744467fb4a7fb4b6436e851814051bb70702d82f5c53a83d9576617",
+      "sha256": "af21a2e8bcc6b874be9e63dac4d9695b924fed207ce51f18160385f596d5dfac",
       "rows": 144
     },
     {
@@ -29,13 +29,13 @@
     },
     {
       "path": "seed.json",
-      "bytes": 589694,
-      "sha256": "9233963b1c29671a6f469634dfdb1e332260146eec80f640e460b18f2a4775af"
+      "bytes": 590032,
+      "sha256": "b6b99cf42dcd7166d498dfc47d5bab17ce0271cf3faf7723ebe0fefd8b703b64"
     },
     {
       "path": "submissions.parquet",
-      "bytes": 1783728,
-      "sha256": "5e97238f16d05340b82ab9f823bf86a387d9f090db39cec2fde81de15e22767a",
+      "bytes": 1784680,
+      "sha256": "3346014d115f10c6122677b14c83e9e2ad448d773fd40a12075a11f510d15add",
       "rows": 2594
     },
     {
