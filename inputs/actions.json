@@ -1,0 +1,18 @@
+[
+  {
+    "step": 1,
+    "op": "submit",
+    "person": "P001",
+    "design": "D-new",
+    "task": "T10",
+    "revision": 1,
+    "chosen_alt": "A1"
+  },
+  {
+    "step": 2,
+    "op": "add_scenario",
+    "id": "price-outside-evidence",
+    "alt": "A1",
+    "price_minor": 12000
+  }
+]

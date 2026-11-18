@@ -1,0 +1,40 @@
+[
+  {
+    "id": "base",
+    "alternatives": [
+      {
+        "alt": "A0",
+        "price_minor": 2000,
+        "style": "classic",
+        "licensed": false
+      },
+      {
+        "alt": "A1",
+        "price_minor": 3000,
+        "style": "bright",
+        "licensed": true
+      },
+      {
+        "alt": "NONE",
+        "price_minor": 0,
+        "outside": true
+      }
+    ]
+  },
+  {
+    "id": "remove-A0",
+    "alternatives": [
+      {
+        "alt": "A1",
+        "price_minor": 3000,
+        "style": "bright",
+        "licensed": true
+      },
+      {
+        "alt": "NONE",
+        "price_minor": 0,
+        "outside": true
+      }
+    ]
+  }
+]

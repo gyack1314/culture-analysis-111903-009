@@ -1,0 +1,47 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 297,
+      "sha256": "3122b4042728c6f233189880ff83e24276c21ea3c5b57e7189dd67bc04fa92fd"
+    },
+    {
+      "path": "choice_sets.parquet",
+      "bytes": 84894,
+      "sha256": "47a0578e8744467fb4a7fb4b6436e851814051bb70702d82f5c53a83d9576617",
+      "rows": 144
+    },
+    {
+      "path": "designs.json",
+      "bytes": 98,
+      "sha256": "247ce696645f1366d8ec8ace2bd1d84ab8f699c055419f265276a5f3f1ec6f0b"
+    },
+    {
+      "path": "respondents.parquet",
+      "bytes": 58229,
+      "sha256": "f0fe2891416d7c4cb674157d8915ee8f5dd8aec21e4e23fc629553439b942098",
+      "rows": 180
+    },
+    {
+      "path": "scenarios.json",
+      "bytes": 693,
+      "sha256": "4738ad7450c76bb2e8cd4b3e185da369d40f02e6f3983ad722ee26c141db6137"
+    },
+    {
+      "path": "seed.json",
+      "bytes": 589694,
+      "sha256": "9233963b1c29671a6f469634dfdb1e332260146eec80f640e460b18f2a4775af"
+    },
+    {
+      "path": "submissions.parquet",
+      "bytes": 1783728,
+      "sha256": "5e97238f16d05340b82ab9f823bf86a387d9f090db39cec2fde81de15e22767a",
+      "rows": 2594
+    },
+    {
+      "path": "validation_tasks.json",
+      "bytes": 23,
+      "sha256": "29b1d3e41e2cc3f3fadaa23c03f7453bc6b6433cf11fceb6896fa2db4b870544"
+    }
+  ]
+}

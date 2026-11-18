@@ -1,0 +1,7 @@
+{
+  "bridge_common_tasks": [
+    "T0",
+    "T1"
+  ],
+  "confounded_design": "D-confounded"
+}
